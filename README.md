@@ -1,13 +1,11 @@
-# vscode-user-snippets
-
-## SimoSultans VSCode User Snippets
+# SimoSultans VSCode User Snippets
 
 ![GitHub followers](https://img.shields.io/github/followers/SimoSultan?style=social)  
 ![Twitter Follow](https://img.shields.io/twitter/follow/simo_sultan?style=social)  
 [www.simonmcurran.com](https://www.simonmcurran.com/)  
 
 
-### Description
+## Description
 
 Just wanted a place to share all my (HTML & JavaScript) snippets with people who wanted them. Also, then they can get the updates when as well when I publish them.
 I'm not going to talk about here how to set up the file. Go to [Lachy's Tutorial](https://github.com/LachlynR/Custom-VSCode-Snippets-Guide) on how to do this. What you do need to do though is copy over everything between the first and last curly bracket and add it in if you already have snippets in there, but if you don't, then just copy everything and paste it in. Feel free to edit them to your liking, cause they are yours now! Enjoy!
