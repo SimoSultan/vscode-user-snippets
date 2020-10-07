@@ -54,14 +54,6 @@ If you have questions feel free to reach out.
 		],
 		"description": "Boostrap CDN Link"
 	},
-
-	// "fontawesome" : {
-	// 	"prefix": "fontawesome",
-	// 	"body": [
-	// 		"",
-	// 		"<!-- FontAwesome CDN --->",
-	// 	]
-	// }
 }
 ```
 
